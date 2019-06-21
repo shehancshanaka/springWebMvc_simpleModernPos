@@ -1,7 +1,5 @@
 # springWebMvc_simpleModernPos
-include the srping web mvc.
-# WholeSalePOSWithSpringWebMvc
-Fully completed whole sale pos system for supermarket.Spring web mvc and rest web services was used for development
+Spring web mvc and rest web services was included in this project.Fully completed  pos system for supermarket.
 
 ### Installation
 
